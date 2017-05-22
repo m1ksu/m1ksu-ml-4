@@ -6,6 +6,10 @@
 
 
 
+
+
+
+
 body,
 input,
 textarea,
@@ -432,7 +436,20 @@ h6,
 }
 #features1-2 .mbr-cards-col:nth-child(odd) .card-subtitle {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
 }
 #features1-2 .mbr-cards-col:nth-child(even) .card-subtitle {
   color: #000000;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+#features1-2 .mbr-cards-col:nth-child(odd) .card-text {
+  font-family: 'Open Sans', sans-serif;
+}
+#features1-2 .mbr-cards-col:nth-child(even) .card-text {
+  font-family: 'Open Sans', sans-serif;
+}
+#contacts4-7 STRONG {
+  font-size: 24px;
 }
